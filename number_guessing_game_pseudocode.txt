@@ -1,0 +1,17 @@
+START
+
+generate a random number from 1 to 100
+
+ask the user for a guess
+Tell them:
+Too high
+Too low
+Correct!
+
+count their attempts
+
+Keep running until they guess correctly.
+
+Handle invalid input without crashing.
+
+END
