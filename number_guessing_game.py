@@ -1,6 +1,6 @@
 import random
 
-print("Welcome the number guessing game! Guess a number from 1 to 100.")
+print("Welcome to the number guessing game! Guess a number from 1 to 100.")
 
 secret_number = random.randint(1, 100)
 attempts = 0
@@ -27,7 +27,7 @@ print("Attempts: ", attempts)
 
     
 
-  
+
 
 
 
